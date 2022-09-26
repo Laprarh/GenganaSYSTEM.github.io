@@ -2,4 +2,4 @@
 
 Small website for a school project
 
-Author: Jericho Rubio and Aditya Joshi
+Author: Aditya and Jericho
